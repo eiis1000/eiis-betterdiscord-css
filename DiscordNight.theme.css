@@ -3612,9 +3612,9 @@ body {
 	width: calc(var(--User-List-Width) - 16px);
 	height: 30px;
 	margin: 0px 0px 6px 8px;
-	padding: 10px 0px 0px 0px;
+	padding: 10px 0px 0px 0.5px;
 	letter-spacing: .01em;
-	/* text-align: center; */
+	/*text-align: center; /* erez it's here */
 	color: #7F7F7F;
 	border-bottom: 1px solid currentcolor;
 	backface-visibility: hidden;
